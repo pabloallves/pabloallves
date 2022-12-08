@@ -7,6 +7,7 @@
 
 
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloallves&show_icons=true&theme=onedark)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloallves)](https://github.com/pabloallves/github-readme-stats)
 
 ### Tecnologias que estou estudando 
 
